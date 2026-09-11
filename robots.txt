@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mgarciasoftia.github.io/reference-hftcu5/sitemap.xml
